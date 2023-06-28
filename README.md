@@ -3,16 +3,16 @@
 Este é um simples sistema de biblioteca implementado em Java, utilizando a classe Scanner para entrada de dados do usuário. O sistema permite a realização de operações básicas de um CRUD (Create, Read, Update, Delete), permitindo o cadastro, consulta, atualização e exclusão de livros.
 
 ## Funcionalidades
-### Cadastro de livros: o usuário pode inserir as informações do livro, como título, autor e ano de publicação.
-### Consulta de livros: o usuário pode buscar livros pelo título ou autor e visualizar os resultados encontrados em formato de tabela.
-### Atualização de livros: o usuário pode selecionar um livro existente e atualizar suas informações, como título, autor e ano de publicação.
-### Exclusão de livros: o usuário pode remover um livro existente da biblioteca.
+ Cadastro de livros: o usuário pode inserir as informações do livro, como título, autor e ano de publicação.
+ Consulta de livros: o usuário pode buscar livros pelo título ou autor e visualizar os resultados encontrados em formato de tabela.
+ Atualização de livros: o usuário pode selecionar um livro existente e atualizar suas informações, como título, autor e ano de publicação.
+ Exclusão de livros: o usuário pode remover um livro existente da biblioteca.
 
 ## Tecnologias utilizadas
-### Linguagem de programação: Java
-### Banco de dados: MySQL
-### Classe Scanner: utilizada para a entrada de dados do usuário
-### JDBC (Java Database Connectivity): utilizado para a conexão com o banco de dados MySQL
+ Linguagem de programação: Java
+ Banco de dados: MySQL
+ Classe Scanner: utilizada para a entrada de dados do usuário
+ JDBC (Java Database Connectivity): utilizado para a conexão com o banco de dados MySQL
 
 ## Como usar
 Clone o repositório para sua máquina local.
